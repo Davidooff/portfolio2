@@ -1,0 +1,22 @@
+.about {
+  padding: 100px 50px 78px 50px;
+  background-color: #252525;
+  text-align: center;
+}
+
+.about h2 {
+  font-size: 62.5px;
+  font-weight: bold;
+}
+
+.about img {
+  width: 100%;
+  margin: 64px auto;
+}
+
+.about p {
+  font-size: 29px;
+  max-width: 870px;
+  hyphens: auto;
+  margin: auto;
+}
